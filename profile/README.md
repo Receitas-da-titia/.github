@@ -43,32 +43,6 @@ Ser referência em tecnologia voltada para gastronomia e organização culinári
 
 ---
 
-# 👨‍💻 Equipe
-
-Nossa equipe é formada por:
-
-- Desenvolvedores Front-end
-- Desenvolvedores Back-end
-- Designers UX/UI
-- Analistas de Sistemas
-- Especialistas em Experiência do Usuário
-
-Todos trabalhando juntos para criar aplicações rápidas, intuitivas e funcionais.
-
----
-
-# 🛠️ Tecnologias Utilizadas
-
-- HTML5
-- CSS3
-- JavaScript
-- React
-- Node.js
-- MongoDB
-- Git & GitHub
-
----
-
 # 📍 Localização
 
 Campos dos Goytacazes - RJ, Brasil
